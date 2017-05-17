@@ -25,6 +25,8 @@ All information about the course will be posted here.
 
 ## News
 * **May 16** &mdash; Welcome back!
+* **May 23** &mdash; [Assignment 1](assign/assign01.html) design artifact due in class
+* **May 26** &mdash; [Assignment 1](assign/assign01.html) *program due by 11:59pm*
 
 <!--
 * **Apr 28** &mdash; The description of [Assignment 4](assign/assign04.html) has been updated to indicate that extra credit features must be the result of individual effort (not collaboration.)
