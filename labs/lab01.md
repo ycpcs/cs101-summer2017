@@ -31,7 +31,7 @@ In the terminal, run the commands:
     mkdir -p CS101
     cd CS101
 
-**(2)** Using a web browser, download [CS101\_Lab01.zip](CS101_Lab01.zip). Save the zip file in the **CS101** directory within your home directory.
+**(2)** Using a web browser, download [CS101\_Lab01.zip](src/CS101_Lab01.zip). Save the zip file in the **CS101** directory within your home directory.
 
 **(3)** From the Cygwin bash shell or terminal, run the following command:
 

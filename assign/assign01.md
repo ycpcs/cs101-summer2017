@@ -3,14 +3,14 @@ layout: default
 title: "Assignment 1: Freefalling"
 ---
 
-Design due: **Thursday, January 26th** at the beginning of class
+Design due: **Tuesday, May 23rd** at the beginning of class
 
-Program due: **Tuesday, Jan 31st by 11:59 PM**
+Program due: **Friday, May 26th by 11:59 PM**
 
 Getting Started
 ===============
 
-Start by downloading [CS101\_Assign01.zip](CS101_Assign01.zip), saving it in the directory **CS101** within your home directory.
+Start by downloading [CS101\_Assign01.zip](src/CS101_Assign01.zip), saving it in the directory **CS101** within your home directory.
 
 If you are on Windows, start a **Cygwin Bash Shell** and run the following commands:
 
@@ -46,7 +46,7 @@ Your Tasks
 
 Based on the requirements described below in the "Program" section, fill out a [design template](../design-template.pdf).  Consider what the input and output of the program are, and what steps are necessary to compute the output from the input.
 
-The design is due at the beginning of class on **Thursday, January 26th**.
+The design is due at the beginning of class on **Tuesday, May 23rd**.
 
 ## Program
 
