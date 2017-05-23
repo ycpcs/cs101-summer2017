@@ -27,6 +27,11 @@ All information about the course will be posted here.
 * **May 16** &mdash; Welcome back!
 * **May 23** &mdash; [Assignment 1](assign/assign01.html) design artifact due in class
 * **May 26** &mdash; [Assignment 1](assign/assign01.html) **program due by 11:59pm**
+* **May 30** &mdash; [Assignment 2](assign/assign02.html) MS 1 design artifact due in class
+* **June 2** &mdash; [Assignment 2](assign/assign02.html) **MS 1 program due by 11:59pm**
+* **June 6** &mdash; [Assignment 2](assign/assign02.html) MS 2 design artifact due in class
+* **June 9** &mdash; [Assignment 2](assign/assign02.html) **MS 2 program due by 11:59pm**
+* **June 13** &mdash; **EXAM I**
 
 <!--
 * **Apr 28** &mdash; The description of [Assignment 4](assign/assign04.html) has been updated to indicate that extra credit features must be the result of individual effort (not collaboration.)
