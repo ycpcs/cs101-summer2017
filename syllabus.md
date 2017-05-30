@@ -10,7 +10,7 @@ CS 101 - Fundamentals of Computer Science I
 
 Instructors:
 
-- Section 101: [David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, Office hours: TBD
+- Section 101: [David Babcock](http://faculty.ycp.edu/~dbabcock/), <dbabcock@ycp.edu>, Office hours: T R 10:30-11:00AM, 1:00-1:30PM, or by appointment
 
 Course description
 ------------------
