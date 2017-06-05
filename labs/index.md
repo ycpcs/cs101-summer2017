@@ -20,6 +20,9 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must:
 > Week 2 (May 22-26)    | [Lab 6: Checking the Weather](lab06.html) | [CS101\_Lab06.zip](src/CS101_Lab06.zip)
 > Week 3 (May 29-Jun 2) | [Lab 7: For loops](lab07.html) | n/a
 > Week 3 (May 29-Jun 2) | [Lab 8: Gone loopy](lab08.html) | [CS101\_Lab08.zip](src/CS101_Lab08.zip)
+> Week 4 (Jun 5-Jun 9)  | [Lab 9: Bar Graph](lab09.html) | [CS101\_Lab09.zip](src/CS101_Lab09.zip)
+> Week 4 (Jun 5-Jun 9)  | [Lab 10: Fancy Rectangle](lab10.html) | [CS101\_Lab10.zip](src/CS101_Lab10.zip)
+> Week 4 (Jun 5-Jun 9)  | [Lab 11: Barn Door](lab11.html) | [CS101\_Lab11.zip](src/CS101_Lab11.zip)
 
 
 <!--
