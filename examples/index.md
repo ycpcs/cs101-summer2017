@@ -10,6 +10,15 @@ Date | Code example | Description
 May 18 | [date.cpp](date.cpp) | Read month/day/year and print them as a date
 May 18 | [average.cpp](average.cpp) | Read three values and print the average
 May 18 | [accel.cpp](accel.cpp) | Compute Tesla acceleration 0-60 in multiples of G
+May 25 | [ticket2.cpp](ticket2.cpp) | Ticket discount using if/else if
+May 30 | [factors.cpp](factors.cpp) | Find factors of an integer
+Jun 1  | [combo.cpp](combo.cpp) | Try to guess combination before bomb explodes
+Jun 1  | [guess.cpp](guess.cpp) | Guessing game using while loop
+Jun 6  | [rectangle.cpp](rectangle.cpp) | Print rectangle using text characters
+Jun 6 | [box.cpp](box.cpp) | Print outlined box using text characters
+Jun 6 | [box-2.cpp](box-2.cpp) | Same as above (box.cpp), alternate logic, with comments
+Jun 8 | [prime-or-factors.cpp](prime-or-factors.cpp) | Factors for a given number, with comments
+Jun 8 | [checkerboard.cpp](checkerboard.cpp) | Checkerboard of 'X's and 'O's, with comments
 
 <!--
 Feb 9 | [ticket2.cpp](ticket2.cpp) | Ticket discount using if/else if
