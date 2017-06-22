@@ -34,7 +34,10 @@ All information about the course will be posted here.
 * **June 13** &mdash; **EXAM I**
 * **June 22** &mdash; [Assignment 3](assign/assign03.html) Design artifact due in class
 * **June 29** &mdash; [Assignment 3](assign/assign03.html) **MS 1 program due by 11:59pm**
+* **July 4** &mdash; **NO CLASS**
 * **July 6** &mdash;  [Assignment 3](assign/assign03.html) **MS 2 program due by 11:59pm**
+* **July 11** &mdash; **EXAM II**
+* **July 18,20** &mdash; **NO CLASS**
 
 <!--
 * **Apr 28** &mdash; The description of [Assignment 4](assign/assign04.html) has been updated to indicate that extra credit features must be the result of individual effort (not collaboration.)
