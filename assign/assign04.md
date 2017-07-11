@@ -17,8 +17,8 @@ Start a **Cygwin Bash Shell** and run the following commands:
 
     cd h:
     cd CS101
-    unzip CS101_Assign05.zip
-    cd CS101_Assign05
+    unzip CS101_Assign04.zip
+    cd CS101_Assign04
 
 Using **Notepad++**, open the files
 
