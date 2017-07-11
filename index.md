@@ -38,6 +38,8 @@ All information about the course will be posted here.
 * **July 6** &mdash;  [Assignment 3](assign/assign03.html) **MS 2 program due by 11:59pm**
 * **July 11** &mdash; **EXAM II**
 * **July 18,20** &mdash; **NO CLASS**
+* **July 28** &mdash; [Assignment 4](assign/assign04.html) **MS 1 program due by 11:59pm**
+* **Aug 7** &mdash;  [Assignment 4](assign/assign04.html) **MS 2 program due by 11:59pm**
 
 <!--
 * **Apr 28** &mdash; The description of [Assignment 4](assign/assign04.html) has been updated to indicate that extra credit features must be the result of individual effort (not collaboration.)
