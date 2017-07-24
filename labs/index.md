@@ -29,13 +29,13 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must:
 > Week 7 (Jun 26-Jun 30) | [Lab 15: Simple Stats](lab15.html) | [CS101\_Lab15.zip](src/CS101_Lab15.zip)
 > Week 7 (Jun 26-Jun 30) | [Lab 16: Function Design](lab16.html) | [CS101\_Lab16.zip](src/CS101_Lab16.zip)
 > Week 7 (Jun 26-Jun 30) | [Lab 17: Grass Fire](lab17.html) | [CS101\_Lab17.zip](src/CS101_Lab17.zip)
-> Week 8 (Jul 3-Jul 7)   | N/A
+> Week 8 (Jul 3-Jul 7)   | n/a | 
 > Week 9 (Jul 10-Jul 14) | [Lab 18: Fancy Output](lab18.html) | [CS101\_Lab18.zip](src/CS101_Lab18.zip)
 > Week 9 (Jul 10-Jul 14) | [Lab 19: Boing!](lab19.html) | [CS101\_Lab19.zip](src/CS101_Lab19.zip)
 > Week 10 (Jul 17-Jul 21)| **NO CLASS**
 > Week 11 (Jul 24-Jul 28)| [Lab 20: Boing! with pointers](lab20.html) | [CS101\_Lab20.zip](src/CS101_Lab20.zip)
 > Week 12 (Jul 31-Aug 4) | [Lab 21: Boing! particle simulation](lab21.html) | [CS101\_Lab21.zip](src/CS101_Lab21.zip)
-> Week 13 (Aug 7-Aug 11) | N/A
+> Week 13 (Aug 7-Aug 11) | n/a |
 <!--
 > Feb 2 | [Lab 4: Salary Calculator](lab04.html) | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Feb 7 | [Lab 5: Animal Classifier](lab05.html) | [CS101\_Lab05.zip](CS101_Lab05.zip)
