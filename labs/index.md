@@ -36,6 +36,7 @@ Labs are worth 10% of your course grade.  To receive credit for a lab, you must:
 > Week 11 (Jul 24-Jul 28)| [Lab 20: Boing! with pointers](lab20.html) | [CS101\_Lab20.zip](src/CS101_Lab20.zip)
 > Week 12 (Jul 31-Aug 4) | [Lab 21: Boing! particle simulation](lab21.html) | [CS101\_Lab21.zip](src/CS101_Lab21.zip)
 > Week 13 (Aug 7-Aug 11) | n/a |
+
 <!--
 > Feb 2 | [Lab 4: Salary Calculator](lab04.html) | [CS101\_Lab04.zip](CS101_Lab04.zip)
 > Feb 7 | [Lab 5: Animal Classifier](lab05.html) | [CS101\_Lab05.zip](CS101_Lab05.zip)
