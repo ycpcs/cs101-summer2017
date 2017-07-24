@@ -24,6 +24,9 @@ Week 7 (June 26&ndash;30)     | [Lecture 13: Functions that return a value](lect
 Week 8 (July 3&ndash;7)       | **NO CLASS - 7/4** <br /> **Exam 2 Review** | |
 Week 9 (July 10&ndash;14)     | **EXAM 2 - 7/11** <br /> [Lecture 16: Struct types](lectures/lecture16.html)<br>Chapter 8, through *Using Structures in Expressions*<br>[Lecture 17: Using structs with functions](lectures/lecture17.html)<br>Chapter 8, through *Initializing Structures* | | &mdash;
 Week 10 (July 17&ndash;21)    | **NO CLASS** | |
+Week 11 (July 24&ndash;28)    | [Lecture 15: Pointers, reference parameters](lectures/lecture15.html)<br>Chapter 10 through *Using Pointers in Expressions* <br /> [Lecture 18: Pointers to structures](lectures/lecture18.html)<br>Chapter 10, *Working with Pointers and Structures* <br /> [Lecture 19: Composition](lectures/lecture19.html)<br>Chapter 8, *Structures Containing Structures* | Week11 &rarr; [AddEmUp](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=508)\* <br /> Week11 &rarr; [area of Rectangle](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=509)\*, [quadrant](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=535)\* | &mdash;ß
+Week 12 (July 31&ndash;Aug 4) | [Lecture 20: Arrays of structures](lectures/lecture20.html)<br>Chapter 8, *Arrays of Structures* <br /> **Exam 3 Review** | &mdash; | &mdash;
+Week 13 (Aug 7&ndash;11)      | **Exam 3 - 8/8** <br /> **FINAL EXAM - 8/10** | |
 
 <!--
 Jan 24 | [Lecture 1: printf, scanf, int variables](lectures/lecture01.html) | Week2 &rarr; [hello](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=471)\*, [it goes to 11](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=472)\*, [how many tacos?](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=473), [What day is it?](https://cs.ycp.edu/cloudcoder/#exercise?c=15,p=474) | 2.4, 2.5
