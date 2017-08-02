@@ -19,9 +19,6 @@ title: "Practice Exams"
 
 > [Exam 3, written question solutions](cs101-spring2016-exam03-solution.pdf), [Exam 3, programming solutions](CS101_Exam3_Solution.zip)
 
-<!--
 [Exam 4, Spring 2016](cs101-spring2016-exam04.pdf), [Programming zipfile](CS101_Exam4.zip)
 
 > [Exam 4, written question solutions](cs101-spring2016-exam04-solution.pdf), [Exam 4, programming solutions](CS101_Exam4_Solution.zip)
-
--->
